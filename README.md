@@ -30,4 +30,4 @@ Deployed Website
 
 ## Getting Started
 Deployed Website
-[Click Here](news-zkd57hqg9-yescii.vercel.app)
+[Click Here](https://news-bs8a5bpam-yescii.vercel.app/)
