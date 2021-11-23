@@ -1,7 +1,5 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
-const { connectToDatabase } = require("../../lib/mongodb");
-
 const mongoose = require("mongoose");
 
 // Database Configuration
