@@ -14,3 +14,30 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.index {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.show {
+  border: solid 3px black;
+  max-width: 900px;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.show button {
+  display: block;
+
+  text-align: center;
+}
+
+.s-img {
+  width: 100%;
+}
